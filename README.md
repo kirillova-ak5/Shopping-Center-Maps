@@ -1,2 +1,3 @@
 # Shopping-Center-Maps
-ayt
+Contributors:
+
