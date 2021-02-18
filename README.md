@@ -18,4 +18,3 @@ Rules:
     2) Single if-else must be with " { ... }".
     3) camelCase.
     4) If function fits the screen, variables declares in the beginning, else in the place of use.
-Hello, is it me you looking for?
